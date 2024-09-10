@@ -1,1 +1,1 @@
-# plant-disease-detecting-AI
+"# cropdiseasedeploy" 
