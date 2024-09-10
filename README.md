@@ -1,0 +1,1 @@
+# plant-disease-detecting-AI
